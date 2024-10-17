@@ -1,0 +1,95 @@
+/* -question 1 */
+.box {
+    height: 200px;
+    width: 300px;
+    background-color: lightgray;
+}
+/* <!--question 2--> */
+.responsive-box {
+    width: 50vw; /* 50% of viewport width */
+    height: 50vh; /* 50% of viewport height */
+    background-color: lightblue;
+  }
+
+/* <!--question 3--> */
+  .padded-text {
+    padding: 20px;
+    background-color: lightgreen;
+  }
+
+/* <!--Question 4--> */
+  .custom-padding {
+    padding: 10px 20px;
+    background-color: lightcoral;
+  }
+
+  /* <!--question 5--> */
+  .border-box {
+    border: 2px solid black;
+  }
+
+ /* <!--question 6--> */
+  .rounded-border {
+    border: 3px dotted red;
+    border-radius: 15px;
+  }
+
+/* <!--question 7--> */
+    .margin-text {
+      margin: 30px;
+      background-color: rgb(108, 108, 74);
+    }
+
+/* <!--question 8--> */
+    .custom-margin {
+      margin: 20px 40px;
+      background-color: lightpink;
+    }
+
+/* <!--question 9--> */
+    .inline-element {
+      display: inline;
+      background-color: lightcyan;
+      padding: 10px;
+      margin: 5px;
+    }
+
+/* <!--Quetion 10--> */
+    .block-element {
+      display: block;
+      margin: 10px 0;
+      color: blue;
+    }
+
+/* <!--question 11--> */
+    .inline-block-element {
+      display: inline-block;
+      width: 100px;
+      height: 50px;
+      background-color: lightgray;
+      margin: 5px;
+    }
+
+/* <!--question 12--> */
+    .hidden-element {
+      display: none;
+    }
+
+/* <!--question 13--> */
+    .visible-element {
+      visibility: visible;
+      background-color: lightgreen;
+    }
+
+/* <!--question 14--> */
+    .invisible-element {
+      visibility: hidden;
+    }
+
+ /* <!--question 15-->  */
+    .transparent-box {
+      background-color: blue;
+      opacity: 0.5;
+      width: 200px;
+      height: 200px;
+    }
